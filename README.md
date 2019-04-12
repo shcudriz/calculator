@@ -1,7 +1,7 @@
 # Calculator
 Este es un ejercicio de angular
 
-## Instalación dle proyecto
+## Instalación del proyecto
 ```
 npm instal
 ```
